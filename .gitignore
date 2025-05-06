@@ -1,9 +1,12 @@
-Binaries
-DerivedDataCache
-Intermediate
-Saved
-.vscode
-.vs
+# Unreal Engine build folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# User-specific files
+.vscode/
+.vs/
 *.VC.db
 *.opensdf
 *.opendb
@@ -12,3 +15,8 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+# Auto-save, log, and temp
+*.autosave
+*.log
+*.tmp
